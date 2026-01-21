@@ -12,4 +12,5 @@ J'ai 17 ans,
 J'ai apris a coder seul dans mon coin avec comme aide : 
 - Youtube
 - Forums
-- 
+- IA (Chat GPT, Gemini, Grok)
+
