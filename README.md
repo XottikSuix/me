@@ -7,9 +7,13 @@ Auteur : Thimeo Marques
 Date de derniere modification : 21/01/2026
 
 A propos de moi :
+
 Je m'appelle Thimeo,
+
 J'ai 17 ans,
+
 J'ai apris a coder seul dans mon coin avec comme aide : 
+
 - Youtube
 - Forums
 - IA (Chat GPT, Gemini, Grok)
