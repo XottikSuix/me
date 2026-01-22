@@ -1,0 +1,32 @@
+Objet : Demande de stage – Développement web (3 semaines)
+
+
+Madame, Monsieur,
+Âgé de 17 ans, actuellement en classe de terminale, je souhaite effectuer un stage de trois semaines dans le domaine de l’informatique, et plus particulièrement dans le développement web, métier que je souhaite exercer à l’avenir.
+Depuis quelque temps, je m’intéresse activement au développement, un domaine qui me motive particulièrement car il combine création, logique et résolution de problèmes.
+J’apprécie le fait de pouvoir concevoir des interfaces visibles et fonctionnelles, tout en comprenant le fonctionnement technique qui se cache derrière un site ou une application web.
+En parallèle de ma scolarité, j’ai commencé à me former en autodidacte au développement web. 
+J’ai notamment découvert les bases de la création de sites internet à travers :
+- la réalisation de pages web simples,
+- la structuration de contenus,
+- la mise en forme et l’amélioration visuelle d’interfaces.
+Pour cela, j’utilise différents outils et supports d’apprentissage, tels que :
+- des plateformes de formation en ligne (par exemple OpenClassrooms ou des tutoriels spécialisés),
+- des éditeurs de code comme Visual Studio Code,
+- des navigateurs web pour tester et comprendre le fonctionnement des pages,
+- ainsi que des ressources en ligne (documentation, forums, vidéos, intelligences artificielles).
+Ces premiers apprentissages m’ont permis de mieux comprendre la logique du développement web, le fonctionnement d’un site internet et l’importance de la rigueur, de l’organisation du code et de la recherche de solutions lorsque quelque chose ne fonctionne pas comme prévu.
+Curieux, sérieux et motivé, j’aime apprendre par moi-même et approfondir les sujets qui m’intéressent. Le développement informatique demande de la persévérance et de la méthode, des qualités que je m’efforce de développer au quotidien dans mon apprentissage personnel.
+Ce stage représenterait pour moi une opportunité essentielle afin de :
+- découvrir concrètement le métier de développeur web,
+- observer le fonctionnement d’une équipe informatique ou d’une entreprise du numérique,
+- comprendre les outils professionnels, les méthodes de travail et l’organisation de projets,
+- confirmer mon projet d’orientation dans ce domaine.
+Motivé et impliqué, je serais pleinement investi durant ce stage, que ce soit pour observer, apprendre, aider sur des tâches simples ou approfondir mes connaissances. Je suis convaincu que cette immersion me permettra de progresser et d’enrichir mon projet professionnel.
+Je reste à votre disposition pour toute information complémentaire ou pour un entretien,
+et je vous remercie par avance de l’attention que vous porterez à ma candidature.
+Je vous prie d’agréer, Madame, Monsieur, l’expression de mes salutations distinguées.
+
+Thimeo Maques
+06 08 77 13 70
+thimeomarques405@gmail
